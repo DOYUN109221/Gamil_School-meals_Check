@@ -1,2 +1,3 @@
 # Gamil_School-meals_Check
-나이스 리퀘스트
+https://open.neis.go.kr
+나이스 급식 받아오는거 긁어오는거임
