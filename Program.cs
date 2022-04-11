@@ -32,7 +32,7 @@ namespace Gamil_SCH_Bot
 
         public async Task MainAsync()
         {
-            await _client.LoginAsync(TokenType.Bot, "OTYzMDIxMDYxNzc4MjEwODM4.YlQBQQ.1GGGB3EZQxiGEsTwS0tr1A5kT30");
+            await _client.LoginAsync(TokenType.Bot, "");
             await _client.StartAsync();
 
             await Task.Delay(-1);
